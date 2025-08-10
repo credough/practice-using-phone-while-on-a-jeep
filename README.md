@@ -12,9 +12,6 @@ The program:
 - Finds the second highest value
 - Prints the result
 
-## How to Compile & Run
-```bash
-gcc main.c -o second_highest
-./second_highest
+## Reason
 
-Just a casual practice session to keep my coding reflexes sharp, even on the road ^^
+Just a casual praactice session to keep my coding reflexes sharp, even on the road ^^
