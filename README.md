@@ -1,6 +1,6 @@
-# Second Highest Number Finder (Quick Jeepney Practice)
+# Second Highest Integer (quick jeepney practice from gent. to karuhatan)
 
-This is a small and quick C programming practice I coded **entirely on my phone while riding a jeep** 🚐.  
+This is a small and quick C programming practice I coded entirely on my phone while riding a jeep.  
 The goal is to find the second highest number in a given integer array.
 
 ## Screenshot
