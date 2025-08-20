@@ -52,3 +52,9 @@ int main()
 ## Reason
 
 Just a casual praactice session to keep my coding reflexes sharp, even on the road ^^
+
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="80"/>
+
+
